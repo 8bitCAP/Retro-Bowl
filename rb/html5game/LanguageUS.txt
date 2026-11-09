@@ -273,9 +273,10 @@ msg_NewSeason	A new season begins!
 match_Recovered	Recovered
 match_Turnover	Turnover
 match_Safety	Safety
-matchmsg_PATor2	1 or 2 point conversion?
+matchmsg_PATor2or3	1 or 2 or 3 point conversion?
 match_1pt	1 pt
 match_2pt	2 pt
+match_3pt 3 pt
 match_Scored	Scored
 ui_ChooseTeam	Choose Team
 ui_DriveDirection	Drive Direction
@@ -660,7 +661,7 @@ injurytype_9	Calf
 injurytype_10	Ankle
 injurytype_11	Foot
 ui_SkipTutorial	Skip Tutorial
-ui_Credits	Design & Code by Simon Read      ***      Art by  Savage @pixelnfl      ***      Music by Heatley Bros      ***      Special thanks to John Holden, @MrSpecialK_, Will Thompson and Five Aces      ***      Also a huge thank you to all the league organizers and players!
+ui_Credits	Design & Code by Simon Read      ***      Art by  Savage @pixelnfl      ***      Music by Heatley Bros      ***      Special thanks to John Holden, @MrSpecialK_, Will Thompson and Five Aces      ***      Also a huge thank you to all the league organizers and players!      ***      Credit to DL for this mod!
 match_TooLow	Too Low
 match_Doink	Doink
 ui_WeatherFX	Weather FX
@@ -871,6 +872,7 @@ ui_VisitKong	Visit Kongregate.com
 ui_min1	1 Min
 ui_min2	2 Mins
 ui_min3	3 Mins
+ui_min4	4 Mins
 ui_QtrLength	Quarters
 ui_RefreshHires	Refresh#Hires
 msg_FreeAgentReset	Do you wish to refresh the free agent list for $num coaching credits?
